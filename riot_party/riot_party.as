@@ -21,6 +21,6 @@ HookReturnCode OverrideZombieSpawn( string &in szZombieEnt, string &out szZombie
 	if ( !pRiotPartyEnabled.GetBool() ) return HOOK_CONTINUE;
 	// Only replace normal zombies
 	if ( szZombieEnt != "zombie" ) return HOOK_CONTINUE;
-	szZombieEntOverride = "riotzombie";
+	szZombieEntOverride = "zombieriot";
 	return HOOK_HANDLED;
 }
