@@ -13,9 +13,6 @@ HookReturnCode OnPlayerSay(CTerrorPlayer@ pPlayer, CASCommand@ pArgs)
 
 	if( Utils.StrContains( "!mg", Arg ) )
 	{
-		CBasePlayer@ pBasePlr = pPlayer.opCast();
-		CBaseEntity@ pBaseEnt = pBasePlr.opCast();
-
 		// Calculate position that the player is looking at.
 		const Vector vecEyes = pPlayer.EyePosition();
 
