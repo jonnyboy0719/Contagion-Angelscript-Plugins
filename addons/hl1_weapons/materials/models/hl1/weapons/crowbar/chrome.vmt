@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	$basetexture				"models\hl1\weapons\crowbar"
+	$envmap						env_cubemap
+	$envmaptint					"[.9 .9 .9]"
+
+	$phong						"1"
+	$phongexponent				"50"
+	$phongboost					"12"
+	$phongfresnelranges			"[8 .5 2]"
+	$phongalbedotint			"1"
+	$phongtint					"[.9 .9 .9]"
+}

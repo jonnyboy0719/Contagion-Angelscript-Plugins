@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+    $basetexture                "models\hl1\weapons\bulletCHROME"
+    $envmap                     env_cubemap
+    $envmaptint                 "[1 1 1]"
+}

@@ -1,0 +1,28 @@
+OutlineLitGeneric
+{
+	$basetexture = "models\hl1\weapons\glock\glocktop1"
+	Proxies
+	{
+		OutlineItem
+		{
+			Disabled
+			{
+				"outline_alpha"		=	"0"
+			}
+			HighlightEmpty
+			{
+				"outline"			=	"0.1"
+				"outline_alpha"		=	"0.8"
+				"outline_colour"	=	"0.8 0 0"
+				"outline_tint"		=	"1.5 0 0"
+			}
+			Highlight
+			{
+				"outline"			=	"0.12"
+				"outline_alpha"		=	"0.5"
+				"outline_colour"	=	"1 0.7 0"
+				"outline_tint"		=	"2 1.5 0.5"
+			}
+		}
+	}
+}

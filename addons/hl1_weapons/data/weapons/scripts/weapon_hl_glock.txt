@@ -1,0 +1,22 @@
+"ScriptData"
+{
+	TextureData
+	{
+		hl1_glock_crosshair
+		{
+			"file"		"sprites/hl1/crosshairs"
+			"x"			"24"
+			"y"			"0"
+			"width"		"24"
+			"height"	"24"
+		}
+		hl1_glock_ammo
+		{
+			"file"		"sprites/hl1/640hud7"
+			"x"			"0"
+			"y"			"72"
+			"width"		"24"
+			"height"	"24"
+		}
+	}
+}

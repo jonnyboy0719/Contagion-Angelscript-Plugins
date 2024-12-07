@@ -1,0 +1,59 @@
+WeaponData
+{
+	"FireRate"					"0.6"
+
+	"HasIronsights"				"0"
+
+	"Damage"					"18"
+
+	"Range"						"2500"
+	"RangeModifier"				"0.75"
+	"Bullets"					"24"
+
+	"VerticalPunch"				"0"
+	"HorizontalPunch"			"0"
+	"DeployDuration"			"0"
+	"Team" 						"Survivor"
+
+	"AddonAttachment"			"attachment_mossberg"
+	"AddonOffset"				"-3 -1 0"
+	"AddonAngles"				"0 0 -90"
+	
+	"MaxPlayerSpeed"						"220"
+	"WeaponType"							"shotgun"
+
+	"PenetrationNumLayers"					"2"
+	"PenetrationPower"						"50"
+	"PenetrationMaxDistance"				"300"
+	"CharacterPenetrationMaxDistance"		"300"
+
+	"EventSound"			"H"
+	"SoundType"				"Shotguns"
+
+	ActivityMap
+	{
+		"ACT_IDLE"					"ACT_CONTAGION_WALK_MOSSBERG"
+		"ACT_WALK"					"ACT_CONTAGION_WALK_MOSSBERG"
+		"ACT_RUN"					"ACT_CONTAGION_RUN_MOSSBERG"
+		"ACT_JUMP"					"ACT_CONTAGION_JUMP_MOSSBERG"
+		"ACT_RUN_CROUCH"			"ACT_CONTAGION_CROUCH_WALK_MOSSBERG"
+		"ACT_IDLE_CROUCH"			"ACT_CONTAGION_CROUCH_WALK_MOSSBERG"
+		"ACT_MELEE"					"ACT_CONTAGION_MELEE_MOSSBERG"
+		"ACT_PRIMARYATTACK"			"ACT_CONTAGION_PRIMARYFIRE_MOSSBERG"
+		"ACT_RELOAD_START"			"ACT_CONTAGION_RELOAD_MOSSBERG_START"
+		"ACT_RELOAD_LOOP"			"ACT_CONTAGION_RELOAD_MOSSBERG"
+		"ACT_RELOAD_END"			"ACT_CONTAGION_RELOAD_MOSSBERG_END"
+		"ACT_PUMP"					"ACT_CONTAGION_MOSSBERG_PUMP"
+		"ACT_DEPLOY"				"ACT_CONTAGION_DRAW_RIFLE"
+		"ACT_HOLSTER"				"ACT_CONTAGION_HOLSTER_RIFLE"
+	}
+
+	WeaponSpread
+	{
+		"IronsightCrouch"						"4.0"
+		"Crouch"								"4.5"
+		"Ironsight"								"5.5"
+		"Idle"									"7.6"
+		"Walk"									"8.9"
+	}
+}

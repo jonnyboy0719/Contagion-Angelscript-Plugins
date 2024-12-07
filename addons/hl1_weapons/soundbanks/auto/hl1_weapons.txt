@@ -1,0 +1,4 @@
+SoundbankList
+{
+	"auto"		"hl1_weapons.bnk"
+}

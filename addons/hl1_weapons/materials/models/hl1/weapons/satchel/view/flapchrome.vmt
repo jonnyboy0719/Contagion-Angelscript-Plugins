@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	$basetexture = "models\hl1\weapons\satchel\view\flapchrome"
+	$envmap						env_cubemap
+	$envmaptint					"[.8 .8 1]"
+
+	$phong						"1"
+	$phongexponent				"50"
+	$phongboost					"12"
+	$phongfresnelranges			"[8 .5 2]"
+	$phongalbedotint			"1"
+	$phongtint					"[.22 .22 .22]"
+}

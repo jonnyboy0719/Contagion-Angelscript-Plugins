@@ -1,0 +1,54 @@
+WeaponData
+{
+	"FireRate"					"0.15"
+
+	"HasIronsights"				"0"
+
+	"Damage"					"18"
+
+	"Range"						"2500"
+	"RangeModifier"				"0.75"
+	"Bullets"					"1"
+
+	"VerticalPunch"				"0"
+	"HorizontalPunch"			"0"
+	"DeployDuration"			"0"
+	"Team" 						"Survivor"
+
+	"AddonAttachment"			"attachment_1911"
+	"AddonOffset"				"0 0 -0.1"
+	"AddonAngles"				"0 0 0"
+
+	"MaxPlayerSpeed"						"250"
+	"WeaponType"							"pistol"
+
+	"PenetrationNumLayers"					"2"
+	"PenetrationPower"						"60"
+	"PenetrationMaxDistance"				"500"
+	"CharacterPenetrationMaxDistance"		"500"
+
+	"EventSound"							"M"
+
+	ActivityMap
+	{
+		"ACT_IDLE"					"ACT_CONTAGION_WALK_GRENADE"
+		"ACT_WALK"					"ACT_CONTAGION_WALK_GRENADE"
+		"ACT_RUN"					"ACT_CONTAGION_RUN_GRENADE"
+		"ACT_JUMP"					"ACT_CONTAGION_JUMP_GRENADE"
+		"ACT_RUN_CROUCH"			"ACT_CONTAGION_CROUCH_WALK_GRENADE"
+		"ACT_IDLE_CROUCH"			"ACT_CONTAGION_CROUCH_WALK_GRENADE"
+		"ACT_MELEE"					"ACT_CONTAGION_MELEE_GRENADE"
+		"ACT_PRIMARYATTACK"			"ACT_CONTAGION_PRIMARYFIRE_GRENADE"
+		"ACT_DEPLOY"				"ACT_CONTAGION_DRAW_INOCULATOR"
+		"ACT_HOLSTER"				"ACT_CONTAGION_HOLSTER_INOCULATOR"
+	}
+
+	WeaponSpread
+	{
+		"IronsightCrouch"						"0.7"
+		"Crouch"								"1"
+		"Ironsight"								"1.2"
+		"Idle"									"2.5"
+		"Walk"									"3.5"
+	}
+}

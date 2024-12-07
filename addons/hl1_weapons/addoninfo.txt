@@ -1,0 +1,6 @@
+AddonInfo
+{
+	addonTitle				"HL1 Weapons (Angelscript Plugin)"
+	addonDescription		"The weapons from Half-Life"
+	addonAuthor				"JonnyBoy0719"
+}

@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture		=	"models\hl1\weapons\satchel\view\detbutn_bright"
+	$selfillum			=	"1"
+	$selfillumtint		=	"[1.3 1.7 1.4]"
+}

@@ -1,0 +1,16 @@
+Event	ID	Name			Wwise Object Path	Notes
+	487643285	Weapon_HL_PythonFire			\Default Work Unit\Weapons\Mod\HL1\Weapon_HL_PythonFire	
+	1184938020	Weapon_Tripmine_Place			\Default Work Unit\SFX\Mods\Weapon_Tripmine_Place	
+	1190151733	Weapon_HL_MP5Fire			\Default Work Unit\Weapons\Mod\HL1\Weapon_HL_MP5Fire	
+	1194415374	Weapon_HL_PythonReload			\Default Work Unit\Weapons\Mod\HL1\Weapon_HL_PythonReload	
+	1626807647	Weapon_HL1_Explode			\Default Work Unit\SFX\Mods\Weapon_HL1_Explode	
+	2821312486	Weapon_HL_MP5FireAlt			\Default Work Unit\Weapons\Mod\HL1\Weapon_HL_MP5FireAlt	
+	3003149152	Weapon_HL_CrowbarHitWorld			\Default Work Unit\SFX\Mods\Weapon_HL_CrowbarHitWorld	
+	3120225938	Weapon_HL1_SatchelBounce			\Default Work Unit\SFX\Mods\Weapon_HL1_SatchelBounce	
+	3172868244	Weapon_HL_GlockReload			\Default Work Unit\Weapons\Mod\HL1\Weapon_HL_GlockReload	
+	3377721518	Weapon_HL_MP5Reload			\Default Work Unit\Weapons\Mod\HL1\Weapon_HL_MP5Reload	
+	3403545374	Weapon_HL_CrowbarHitFlesh			\Default Work Unit\SFX\Mods\Weapon_HL_CrowbarHitFlesh	
+	3425643474	Weapon_HL_DryFire			\Default Work Unit\Weapons\Mod\HL1\Weapon_HL_DryFire	
+	3516192576	Weapon_Tripmine_Activate			\Default Work Unit\SFX\Mods\Weapon_Tripmine_Activate	
+	4018691657	Weapon_HL_CrowbarSwing			\Default Work Unit\SFX\Mods\Weapon_HL_CrowbarSwing	
+	4104967027	Weapon_HL_GlockFire			\Default Work Unit\Weapons\Mod\HL1\Weapon_HL_GlockFire	

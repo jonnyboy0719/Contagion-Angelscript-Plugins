@@ -1,0 +1,35 @@
+OutlineLitGeneric
+{
+	$basetexture		= "models\hl1\weapons\tripmine_reference"
+	$phong				= "1"
+	$phongtint			= "[.8 .7 .6]"
+	$phongboost			= "1.1"
+	$phongfresnelranges	= "[1 3 5]"
+	$phongexponent		= "20"
+	$envmap				= env_cubemap
+	$envmaptint			= "[.05 .05 .05]"
+	Proxies
+	{
+		OutlineItem
+		{
+			Disabled
+			{
+				"outline_alpha"		=	"0"
+			}
+			HighlightEmpty
+			{
+				"outline"			=	"0.1"
+				"outline_alpha"		=	"0.8"
+				"outline_colour"	=	"0.8 0 0"
+				"outline_tint"		=	"1.5 0 0"
+			}
+			Highlight
+			{
+				"outline"			=	"0.12"
+				"outline_alpha"		=	"0.5"
+				"outline_colour"	=	"1 0.7 0"
+				"outline_tint"		=	"2 1.5 0.5"
+			}
+		}
+	}
+}

@@ -1,0 +1,30 @@
+"ScriptData"
+{
+	TextureData
+	{
+		hl1_tripmine
+		{
+			"file"			"sprites/hl1/tripmine"
+			"x"				"0"
+			"y"				"0"
+			"width"			"256"
+			"height"		"128"
+		}
+		hl1_tripmine_sb
+		{
+			"file"			"sprites/hl1/tripmine_sb"
+			"x"				"0"
+			"y"				"0"
+			"width"			"64"
+			"height"		"32"
+		}
+		hunted_hl1_tripmine
+		{
+			"file"			"sprites/hl1/killfeed/tripmine"
+			"x"				"0"
+			"y"				"0"
+			"width"			"32"
+			"height"		"22"
+		}
+	}
+}
